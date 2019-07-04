@@ -11,3 +11,5 @@ using the Yaml files from the recipes folder.
 
 Feel free to use the recipe for the nightly version. 
 
+# Download
+Please see [releases](https://github.com/KarlZeilhofer/kicad-appimage/releases) for all the binary AppImages for download. 
